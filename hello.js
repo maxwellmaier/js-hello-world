@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("The best way to earn success is to deserve success.");
+console.log('Hello, World!');
 
 /*  
 Next, PLAY! 
